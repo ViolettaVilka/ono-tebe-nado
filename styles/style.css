@@ -160,7 +160,7 @@
 .cover__description {
     display: flex;
     align-items: center;
-    z-index: 2;   
+    z-index: 2;
     margin-top: 135px;
     color: #FFF;
     font-size: 22px;
@@ -357,7 +357,7 @@
     justify-content: space-between;
 }
 
-.footer .header__address{
+.footer .header__address {
     padding-right: 30px;
 }
 
